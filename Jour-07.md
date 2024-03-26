@@ -12,8 +12,8 @@ Hachemi
 - [ ] Ajouter ce repo en upstream dans les remotes sur son local après l'avoir forké et cloné
 - [ ] Comprendre l'utilité et le fonctionnement de `git stash`
 - [ ] Créer un cheat sheet sur Git (en groupe en respectant les bests practices et Gitflow)
-- [ ] Découverte de LazyGit
-  - [ ] Installation et configuration
+- [x] Découverte de LazyGit
+  - [x] Installation et configuration
   - [ ] Intégration dans son editeur / workflow
   - [ ] Faire le tour du propriétaire
 - [ ] `.gitignore` global ou pas ?
