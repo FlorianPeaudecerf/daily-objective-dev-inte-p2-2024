@@ -26,4 +26,4 @@ Benjamin
 
 ### Optionnel pour apprendre le terminal Linux / Mac :
 
-- [ ] Faire le wargame bandit jusqu'au niveau 5 (anglais)
+- [X] Faire le wargame bandit jusqu'au niveau 5 (anglais)
