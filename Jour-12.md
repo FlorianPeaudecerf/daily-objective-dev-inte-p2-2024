@@ -23,6 +23,6 @@ Benjamin
   - [ ] Différenciateur (par ex : Delta)
   - [x] Aliases
   - [x] Comprendre la différence entre config locale, globale et système
-- [ ] Choix workflow : Alias ou Lazygit (obligatoire un des deux)
-- [ ] Savoir travailler avec `git fetch`
+- [x] Choix workflow : Alias ou Lazygit (obligatoire un des deux)
+- [x] Savoir travailler avec `git fetch`
   - [x] À quoi sert la commande `git fetch —prune`
