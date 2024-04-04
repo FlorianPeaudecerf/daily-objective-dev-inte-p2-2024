@@ -14,9 +14,9 @@ Hachemi
 
 - [x] Découverte de Github CLI
   - [x] Installation et connexion
-  - [ ] Faire le tour du propriétaire
-  - [ ] Intégration de `gh` dans son workflow
-  - [ ] Finalisation de son profile Github
+  - [x] Faire le tour du propriétaire
+  - [x] Intégration de `gh` dans son workflow
+  - [x] Finalisation de son profile Github
 
 ### NodeJS
 
