@@ -11,7 +11,7 @@ Hachemi
 - [x] Comprendre le rebase dans Git (quelle différence avec le merge ?)
 - [x] Ajouter ce repo en upstream dans les remotes sur son local après l'avoir forké et cloné
 - [x] Comprendre l'utilité et le fonctionnement de `git stash`
-- [ ] Créer un cheat sheet sur Git (en groupe en respectant les bests practices et Gitflow)
+- [x] Créer un cheat sheet sur Git (en groupe en respectant les bests practices et Gitflow)
 - [x] Découverte de LazyGit
   - [x] Installation et configuration
   - [x] Intégration dans son editeur / workflow
