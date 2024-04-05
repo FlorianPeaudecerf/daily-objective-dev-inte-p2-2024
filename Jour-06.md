@@ -6,8 +6,8 @@ Hachemi
 
 ### Markdown
 
-- [ ] Préparer un README.md générique qui caresse la rétine (à réutiliser pour tous vos prochains repos)
-    - [ ] Voici un Awesome README : https://github.com/matiassingers/awesome-readme
+- [x] Préparer un README.md générique qui caresse la rétine (à réutiliser pour tous vos prochains repos)
+    - [x] Voici un Awesome README : https://github.com/matiassingers/awesome-readme
 
 ### Git
 
@@ -38,5 +38,5 @@ Hachemi
 
 ### IA
 
-- [ ] Découvrir le prompt engineering sur ChatGPT (https://learnprompting.org/fr/)
-- [ ] Partager ses trucs et astuces sur l'utilisation des IAs
+- [x] Découvrir le prompt engineering sur ChatGPT (https://learnprompting.org/fr/)
+- [x] Partager ses trucs et astuces sur l'utilisation des IAs
