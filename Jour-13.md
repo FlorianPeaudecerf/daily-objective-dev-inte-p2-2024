@@ -8,7 +8,7 @@ Hachemi
 
 - [ ] Finir les dailys précédents
 - [x] Découverte de Github CLI (pour ceux qui ont travaillé sur autre chose la semaine précédente)
-  - [ ] Créer un cheat sheet sur Github CLI (individuel)
+  - [x] Créer un cheat sheet sur Github CLI (individuel)
   - [x] Installation et connexion
   - [x] Faire le tour du propriétaire
   - [x] Intégration de `gh` dans son workflow
@@ -17,4 +17,4 @@ Hachemi
 ### Gitflow
 
 - [x] Découvrir Gitflow (pour ceux qui ont travaillé sur autre chose la semaine précédente)
-  - [ ] Créer un cheat sheet sur Gitflow (individuel)
+  - [x] Créer un cheat sheet sur Gitflow (individuel)
