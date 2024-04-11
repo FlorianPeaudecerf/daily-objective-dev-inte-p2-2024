@@ -28,13 +28,13 @@ Hachemi
 #### Github
 
 - [x] Pimper son profile Github (belle du village)
-- [ ] Comprendre comment fonctionnent du chiffrement et des clés asymétriques
+- [x] Comprendre comment fonctionnent du chiffrement et des clés asymétriques
 - [x] Découvrir l'interface de Github :
     - [x] Pull Requests
     - [x] Branches
-    - [ ] Issues
-    - [ ] Settings projet
-    - [ ] Settings profile
+    - [x] Issues
+    - [x] Settings projet
+    - [x] Settings profile
 
 ### IA
 
