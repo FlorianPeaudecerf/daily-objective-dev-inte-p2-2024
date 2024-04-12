@@ -11,5 +11,5 @@ Benjamin
 - [x] Savoir intégrer des polices extérieures dans le CSS
 - [x] Comprendre la notion de cascade en CSS
 - [x] Comprendre le fonctionnement de l'héritage en CSS
-- [ ] Comprendre le fonctionnement de Flexbox
-  - [ ] Faire le parcours Flexbox Froggy (https://flexboxfroggy.com/#fr)
+- [x] Comprendre le fonctionnement de Flexbox
+  - [x] Faire le parcours Flexbox Froggy (https://flexboxfroggy.com/#fr)
