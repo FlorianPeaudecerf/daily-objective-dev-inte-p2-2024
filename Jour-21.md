@@ -6,14 +6,14 @@ Hachemi
 
 ### CSS
 
-- [ ] Revoir le fonctionnement de CSS Grid
-  - [ ] Faire le parcours Grid Garden (https://cssgridgarden.com/#fr)
+- [x] Revoir le fonctionnement de CSS Grid
+  - [x] Faire le parcours Grid Garden (https://cssgridgarden.com/#fr)
 
 
 ### Brief
 
-- [ ] Commencer à travailler sur les wireframes du brief CV
-  - [ ] Pages mobiles
-  - [ ] Pages tablettes
-  - [ ] Pages Desktop
+- [x] Commencer à travailler sur les wireframes du brief CV
+  - [x] Pages mobiles
+  - [x] Pages tablettes
+  - [x] Pages Desktop
 
