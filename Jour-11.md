@@ -15,4 +15,4 @@ Benjamin
 ### IA
 
 - [x] Découvrir le prompt engineering sur ChatGPT (https://learnprompting.org/fr/)
-- [ ] Partager ses trucs et astuces sur l'utilisation des IAs
+- [x] Partager ses trucs et astuces sur l'utilisation des IAs
