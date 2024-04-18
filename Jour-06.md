@@ -6,8 +6,8 @@ Hachemi
 
 ### Markdown
 
-- [ ] Préparer un README.md générique qui caresse la rétine (à réutiliser pour tous vos prochains repos)
-    - [ ] Voici un Awesome README : https://github.com/matiassingers/awesome-readme
+- [x] Préparer un README.md générique qui caresse la rétine (à réutiliser pour tous vos prochains repos)
+    - [x] Voici un Awesome README : https://github.com/matiassingers/awesome-readme
 
 ### Git
 
