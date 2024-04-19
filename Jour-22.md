@@ -6,15 +6,15 @@ Hachemi
 
 ### Brief 
 
-- [ ] Finaliser les wireframes de son brief
+- [x] Finaliser les wireframes de son brief
 
 ### Atelier
 
-- [ ] Préparer l'atelier d'initiation aux prescripteurs
+- [x] Préparer l'atelier d'initiation aux prescripteurs
 
 ### Sass
 
-- [ ] Découverte des préprocesseurs CSS :
+- [x] Découverte des préprocesseurs CSS :
   - [ ] Comprendre quel est l'intérêt d'utiliser un préprocesseur CSS
   - [ ] Comprendre le mécanisme du preprocessing (input => output)
   - [ ] Découvrir le préprocesseur CSS le plus répandu : SASS
